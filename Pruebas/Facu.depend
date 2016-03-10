@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1457577477 source:/home/knux/Documents/Programacion /Facu/main.c
+	<stdio.h>
+	<stdlib.h>
+
