@@ -1,6 +1,6 @@
 /*
 *Ejercicio de la clase numero 3
-* @autor Nahuel Claret
+* @autor Nahuel Claret ++
 */
 #include <stdio.h>
 #include <stdlib.h>
