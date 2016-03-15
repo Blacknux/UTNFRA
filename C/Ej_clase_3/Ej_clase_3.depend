@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1458054946 source:/home/knux/Documents/Programacion /Ejercicios primera clase/Ej_clase_3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

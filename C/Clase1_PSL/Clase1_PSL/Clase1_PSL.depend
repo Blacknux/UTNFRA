@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1458045195 source:/home/knux/Documents/Programacion /Clase1_PSL/Clase1_PSL/main.c
+	<stdio.h>
+	<stdlib.h>
+

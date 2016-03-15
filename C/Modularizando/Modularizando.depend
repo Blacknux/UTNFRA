@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1458051372 source:/home/knux/Documents/Programacion /Ejercicios primera clase/Modularizando/main.c
+	<stdio.h>
+	<stdlib.h>
+
