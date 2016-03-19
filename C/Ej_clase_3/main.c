@@ -1,15 +1,20 @@
-/*
-*Ejercicio de la clase numero 3
-* @autor Nahuel Claret ++
+/**
+* Ejercicio de la clase numero 3
+*
+* @autor Nahuel Claret
 */
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
 
 const float pi=3.1416;
-
+/**
+*Declaramos los prototipos
+*/
 int ingreso_numero();
 float radio();
+
+
 int main()
 {
     float varnum;
@@ -22,9 +27,9 @@ int main()
 }
 
 
-/*
-*
-* @return numero como entero
+/**
+*\brief Solicita un numero
+* \return numero  entero
 */
 int ingreso_numero()
 {
@@ -35,8 +40,9 @@ int ingreso_numero()
 
 }
 
-/*
-*
+/**
+*\brief Toma un parametro (radio) y calcula el area del cirulo
+*\return area del circulo
 */
 float radio(int x)
 {
